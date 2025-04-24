@@ -5802,5 +5802,6 @@ critiques:
     rating: 4
 document:
   repo: https://github.com/zews79/rhelai
+  commit: 09ed791a46b3c3d6ef98850fe0bdef54b4775c9d
   patterns:
     - knowledge/alice/alice.md
